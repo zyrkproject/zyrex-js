@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "crypto": "^1.0.1",
-    "request": "^2.86.0"
+    "request": "^2.86.0",
+    "cryptiles": ">=4.1.2"
   }
 }
